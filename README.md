@@ -8,7 +8,8 @@ Para Finalizar Usamos a integração do Python + Google Cloud para armazenar os 
 Tais dados foram armezado numa Tabela no BigQuery. 
 
 ## Libs Usadas no Projeto. 
-### import pandas as pd ### from selenium import webdriver
+### import pandas as pd 
+### from selenium import webdriver
 ### from selenium.webdriver.common.by import By
 ### from selenium.webdriver.chrome.service import Service
 ### from webdriver_manager.chrome import ChromeDriverManager
