@@ -8,12 +8,4 @@ Para Finalizar Usamos a integração do Python + Google Cloud para armazenar os 
 Tais dados foram armezado numa Tabela no BigQuery. 
 
 ## Libs Usadas no Projeto. 
-### import pandas as pd 
-### from selenium import webdriver
-### from selenium.webdriver.common.by import By
-### from selenium.webdriver.chrome.service import Service
-### from webdriver_manager.chrome import ChromeDriverManager
-### import pandas_gbq as pdgbq
-### from google.oauth2 import service_account
-### import re
-### import time
+Pandas, selenium, webdriver_manager, google.oauth2, pandas_gbq
