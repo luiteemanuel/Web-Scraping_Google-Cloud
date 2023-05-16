@@ -1,6 +1,6 @@
 # Web-Scraping_Google-Cloud
 ## Projeto com intuito de Obter dados sobre Vagas de empregos, especificamente sobre "Engenharia de dados". 
-Os dados Foram Obtidos do Site da [Cachto](https://www.catho.com.br/) 
+Os dados Foram Obtidos do Site da [Catho](https://www.catho.com.br/) 
 
 Foi usando Python Juntamente com a Biblioteca Selenium para a manipulação dos Dados e Raspagem dos dados. 
 
